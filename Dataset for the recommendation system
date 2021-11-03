@@ -1,0 +1,87 @@
+We present a dataset, “A survey for product recommendation”, comprised of the participators’ responses against the questions we have asked to gather information about preferable online platform, how much time they spend on these platforms, which items are they interested to, and many more. The online platforms were prefixed and they were: Web Browser Advertisements and videos, Facebook Advertisements, and YouTube Advertisements and videos. Also, participants answered in the scope of provided criteria: Car, Art, Gadget, Interior, and Food for their favorite item type. The dataset is made publicly available and we encourage other researchers to use it for testing their own affective recommendation systems.
+
+How to use: 
+If you are interested in using this dataset, you will have to download the file no request is needed to be made as its access is public. The source file of the dataset: https://docs.google.com/spreadsheets/d/149_XkMz4toLUptj1avurFpGIWf9GJqQ8KPQDxJgaQs4/edit?usp=sharing
+
+Credits: 
+Firstly, we would like to thank 66 participants for their patience and altruism to let us know their preferences. The dataset was collected by us, the research members:
+1.	Sadman Sakib Akash, BRAC University, Dhaka, Bangladesh
+2.	Dr. Golam Rabiul Alam, BRAC University, Dhaka, Bangladesh
+
+Dataset description and collection procedure: 
+Each column of the dataset except the first two, contains the responses of the respected subjects against our query. The subjects have been carefully chosen and they are between 20-35 years old. Bangladesh is a developing country, as a result, mostly the young demographic is infatuated with online platforms, for this reason, we concentrated on the mentioned age range. We tried to maintain equal gender distribution, despite among the 66 subjects, 28 is female and 38 is male. The questions had been provided via a URL (Uniform Resource Locator) and the corresponding responses were collected with the help of Google form, subsequently it was stored in a Google sheet. 
+
+Research objectives: 
+There were a myriad of datasets available online for the advancement of recommendation systems. But, for the scope of our research we did not need the relevant data based on an item. Whereas, our dataset is concentrated on consumers’ used online platform for a preferred type of item. After that, having some insights from this dataset, we have started our research work to recommend a type of item for a specific consumer based on their given responses.
+
+
+The Dataset: “A survey for product recommendation”
+	
+Timestamp	Participants	On which online media do you spend your time most?	Before buying something, at first from where do you get the news of that product normally?	Before buying something where do you usually look into?	What color do you like?	In YouTube, which product based channels are you subscribed to? (Mention at least 3 product based channels, For Example: Car, Gadget, Sartorial )	From above mentioned products Which one do you like most?	Usually how much time do you spend on YouTube?	Which product pages in Facebook do you like? (Mention at least 3, For Example: Cosmetics, Gadget, Book )	From above mentioned products Which one do you like most?	How much time do you spend on Facebook?	Do you click on Advertisements on browser?	Which Advertisements usually attract your attention in Web Browser?
+9/6/2020 17:02:48	Subject 1	YouTube	Web Browser Advertisements	Web Browser	Blue	Car, Gadget, Sartorial	Gadget	3 hrs	Cosmetics, Gadget, Book	Gadget	1 hr	Yes	Gadgets
+9/6/2020 17:32:24	Subject 2	Facebook	Facebook Advertisements	Web Browser	Black	Laptop, mobile ,robot	Robots	3 hrs	Cosmetics, Art supply, jewellery	Art supply.	5 hrs	No	Discount
+9/6/2020 20:04:31	Subject 3	Web Browser	Web Browser Advertisements	YouTube	Black	Gadget, Sports, Stationary	Gadgets	1 hr	Gadget, Sports, Stationary	Gadget	1 hr	Maybe	Discount
+9/7/2020 16:16:11	Subject 4	YouTube	YouTube Advertisements	YouTube	Black	Gadget,car,art	Gadget	5 hrs	Gadget,car,art	Gadget	1 hr	Maybe	Discount, Gadgets, Food
+9/7/2020 16:16:13	Subject 5	Facebook	Facebook Advertisements	Facebook	Black	Food only	Food	1 hr	Books, food, clothing,house items, body care products	Food	3 hrs	No	Discount, Gadgets, Food
+9/7/2020 16:16:36	Subject 6	Web Browser	Facebook Advertisements	Web Browser	Red	None	PC	30 mins	Techcessories BD	Techcessories BD	3 hrs	No	Gadgets, Food
+9/7/2020 16:18:58	Subject 7	YouTube	Facebook Advertisements	Web Browser	Black	Gadget ; Education ; Audiobook(Novel/story)	Audiobook 	3 hrs	Tutions , Gadget , service 	Tution related pages	3 hrs	No	Gadgets
+9/7/2020 16:19:30	Subject 8	Web Browser	Instagram Advertisements	Web Browser	Black	Anime, makeup, kpop	Anime	3 hrs	Gadgets, clothes, food products 	Food products	1 hr	No	Discount, Food
+9/7/2020 16:20:28	Subject 9	YouTube	Facebook Advertisements	Web Browser	Black	Supercar blonde , ATC Bangladesh , technical Guruji	Supercar blonde	5 hrs	Supercar blonde , unbox therapy , daraz	Unbox therapy	3 hrs	No	Discount, Gadgets, Food, Cars
+9/7/2020 16:20:32	Subject 10	Instagram 	Instagram Advertisements	Instagram 	Blue	Gadgets and gears, 	Mobile	1 hr	Book Orbit	Books 	1 hr	No	Mobile operator
+9/7/2020 16:23:41	Subject 11	YouTube	YouTube Advertisements	YouTube	Blue	UnboxTherapy, JerryRigEverything, Linus Tech Tips	Depends on product	5 hrs	None	None	3 hrs	No	Discount, Gadgets
+9/7/2020 16:24:34	Subject 12	YouTube	Facebook Advertisements	YouTube	Black	PC, Food, Satire	PC	3 hrs	not sure	not sure	1 hr	No	Mobile operator
+9/7/2020 16:24:37	Subject 13	Facebook	Facebook Advertisements	Facebook	Black	Gadget,food	Food	3 hrs	Cosmetics,clothings,jewellery 	Jewellery 	7 hrs	No	Food
+9/7/2020 16:25:36	Subject 14	YouTube	Facebook Advertisements	Web Browser	Blue	Car, Art, Interior, Gadget	Gadget	5 hrs	Gadget,Food, Gaming accessories 	Gaming accessories	5 hrs	No	Discount, Food
+9/7/2020 16:31:23	Subject 15	YouTube	Facebook Advertisements	Web Browser	Blue	Gadget	Car	3 hrs	Cosmetics, Clothes, Accessories	Cosmetics	30 minutes	No	Food
+9/7/2020 16:32:27	Subject 16	Web Browser	Web Browser Advertisements	Web Browser	Black	None 	None	Depends on how much work I have left	Gadget and book	Gadget	1 hr	No	Gadgets
+9/7/2020 16:50:18	Subject 17	YouTube	YouTube Advertisements	Web Browser	Blue	Computer, Games, Gadget	Computer	Depends on the content.	None	None	1 hr	No	None because when I need something I just search it and buy it. Usually I don't get attracted to any ads.
+9/7/2020 17:00:49	Subject 18	YouTube	YouTube Advertisements	YouTube	Black	interior, gadget	interior	3 hrs	I don't have any facebook account 	I don't have any facebook account 	I don't have any facebook account 	No	nothing
+9/7/2020 17:10:00	Subject 19	YouTube	YouTube Advertisements	Web Browser	Black	Fashion, Food, Comedy	Comedy	7 hrs	Fashion, Food, Comedy	Comedy	1 hr	Maybe	Discount
+9/7/2020 17:15:49	Subject 20	YouTube	YouTube Advertisements	YouTube	Black	Car, phone, bikes 	Cars 	5 hrs	Nothing	Nothing 	1 hr	No	Nothing on Facebook
+9/7/2020 17:35:47	Subject 21	Facebook	Facebook Advertisements	Web Browser	Blue	Computer, Games, Mobile 	Games	5 hrs	Computer, Games,Cars	Computer	5 hrs	No	Gadgets
+9/7/2020 18:04:19	Subject 22	Facebook	YouTube Advertisements	Facebook	Black	Hardware Unboxed, MKBHD, Gamers Nexus	Gamers Nexus	1 hr	DSLR, Smartphones, PC hardware	PC hardware	5 hrs	No	Discount, Gadgets, PC Hardware
+9/7/2020 18:07:11	Subject 23	Instagram	Instagram Advertisements	Web Browser	Yellow	None 	Games	3 hrs	Book, Dress, Arts and Craft selling pages	Book	30-40 mins 	Maybe	Discount, Gadgets, Mobile operator
+9/7/2020 18:08:32	Subject 24	Facebook	Facebook Advertisements	Facebook	Blue	Marcus Brownlee	Boston Dynamics	1 hr	buy sell groups	cpu,ram,gpu	7 hrs	No	Discount
+9/7/2020 18:55:02	Subject 25	YouTube	Web Browser Advertisements	YouTube	Black	electorics,gadget,games	gadget	3 hrs	electonics,gadget,book	gadget	20-30 min	No	Gadgets
+9/7/2020 18:59:01	Subject 26	Web Browser	Web Browser Advertisements	Web Browser	Purple	nothing	nothing	bout 7/8 hrs a dayActually, i study lisning to music... in that sence YT is open for an	nothing	gadgets	1 hr	No	Discount, Gadgets, Food
+9/7/2020 19:05:18	Subject 27	Instagram	Facebook Advertisements	Web Browser	Black	Gadget, art/stationery, gifts	Gadget	5 hrs	Books, t-shirts, decor	T-shirts	3 hrs	Maybe	Food
+9/7/2020 19:22:58	Subject 28	Facebook	Web Browser Advertisements	Web Browser	Black	Smartphone, car	None	1 hr	Book, t-shirts, smartphone	Books	3 hrs	No	Gadgets, Food
+9/7/2020 19:30:32	Subject 29	Instagram	Facebook Advertisements	Facebook	Black	none	none	1 hr	Cosmetics/Gadgets	Cosmetics	3 hrs	No	Gadgets
+9/7/2020 20:00:00	Subject 30	YouTube	Facebook Advertisements	Facebook	Yellow	car, comedy, educational	comedy	5 hrs	clothes , gadget , book	gadget	3 hrs	No	Gadgets, Mobile operator, Food, Cars
+9/7/2020 20:09:14	Subject 31	YouTube	Facebook Advertisements	Web Browser	Blue	Gadgets accessories phones	Gadgets	3 hrs	Gadget book cloth	Book	3 hrs	No	Gadgets
+9/7/2020 20:12:49	Subject 32	Web Browser	Web Browser Advertisements	Web Browser	Blue	Car,smart gadget,food	Car	3 hrs	Gadgets,bike,car	Car	3 hrs	Yes	Cars
+9/7/2020 20:25:39	Subject 33	Facebook	Facebook Advertisements	YouTube	Black	gadget , techs , computer hardwares	gadget	3 hrs	gadgets , books 	gadgets	5 hrs	No	Discount, Gadgets, Food
+9/7/2020 21:13:20	Subject 34	Facebook	YouTube Advertisements	Facebook	Green	Gadget,Game,Groceries.	Games	1 hr	Gadget,Toys,Groceries	Toys	1 hr	No	Discount, Gadgets, Mobile operator, Food
+9/7/2020 22:34:51	Subject 35	YouTube	YouTube Advertisements	YouTube	Black	Gadget, clothing. 	Gadget	1 hr	Gadget, food, clothing	Food	1 hr	No	Gadgets
+9/7/2020 22:50:43	Subject 36	YouTube	Facebook Advertisements	YouTube	Blue	MKBHD, Beboom, Everythingapplepro	Gadget	3 hrs	Livewire, Fair Trade Electronics	Smartphone	1 hr	No	Gadgets
+9/7/2020 22:50:57	Subject 37	YouTube	Web Browser Advertisements	Facebook	Green	phones, gardening, headphones 	phones	5 hrs	gadget, book, clothes	gadget	1 hr	No	Discount, Food
+9/7/2020 22:54:12	Subject 38	YouTube	Facebook Advertisements	Web Browser	Blue	Gadgets House tour 	Tour related	3 hrs	Gadget shoes&bags Food	shoes&bags	3 hrs	No	Gadgets, Food
+9/7/2020 23:13:55	Subject 39	Web Browser	Web Browser Advertisements	Web Browser	Black	ATC, Marques Brownlee, Youtube bangla	Gadgets	7 hrs	ATC	Gadgets	7 hrs	No	Gadgets
+9/7/2020 23:23:42	Subject 40	YouTube	Facebook Advertisements	Web Browser	Blue	Tech KOTHON	Mobile	3 hrs	Shirt,t-shirt,sweater 	Shirt	1 hr	No	Mobile operator, Food
+9/7/2020 23:33:43	Subject 41	YouTube	Instagram Advertisements	Facebook	Red	Gaming,car,gadget	Gaming	3 hrs	Gaming,football,music	Football	5 hrs	No	Cars
+9/7/2020 23:37:45	Subject 42	Web Browser	Facebook Advertisements	Reference from elders	Green	Plants, Gadget, music instruments 	Gadget	5 hrs	Gadget, travel goodies , plants	Plants 	3 hrs	Maybe	Gadgets, Mobile operator, Food
+9/8/2020 0:19:49	Subject 43	Facebook	Facebook Advertisements	Web Browser	Blue	Camera, Photoshop, Music	Camera	5 hrs	Camera, Photograpy, Gadget	Photography	5 hrs	Maybe	Discount
+9/8/2020 2:11:45	Subject 44	Facebook	Web Browser Advertisements	Facebook	Black	Gadget , Accessories , mobile	Gadget	3 hrs	Gadget, Book, Mobile	Mobile	3 hrs	Maybe	Discount, Gadgets, Food
+9/8/2020 3:21:39	Subject 45	YouTube	Facebook Advertisements	Web Browser	Black	Gadgets, Computer Hardware, Cars	Computer Hardware	1 hr	Gadgets, Phone covers, Books	Gadgets	3 hrs	Maybe	Gadgets, Food, Cars
+9/8/2020 3:30:04	Subject 46	YouTube	Facebook Advertisements	YouTube	Blue	Beauty blog, Tech based, Product Review Based Channels	Products Review 	3 hrs	Cosmetics and Cloths, Online Writer and Books, Memes	Books and Writers	3 hrs	Maybe	Gadgets
+9/8/2020 11:07:20	Subject 47	Facebook	Facebook Advertisements	Facebook	Black	Gadget, Costume, Accessory 	Gadget	1 hr	Costumes, gadget,. accessory	costume	3 hrs	Maybe	Gadgets, Food
+9/8/2020 12:56:10	Subject 48	Web Browser	Facebook Advertisements	Wherever there is a review of the product 	Blue	Smartphones, Laptops, Gadgets	Smartphones	1 hr	T-shirts, Sportswear, Gadgets	T-shirts	3 hrs	Maybe	Discount, Gadgets, Mobile operator
+9/8/2020 15:55:50	Subject 49	YouTube	YouTube Advertisements	YouTube	Blue	PC, Phone , Gadget	PC	3 hrs	PC parts, Phone , Gadgets 	PC parts	Less than hour	Maybe	PC 
+9/8/2020 17:47:15	Subject 50	Instagram	Instagram Advertisements	Facebook	Green	Clothing, Books, Art Supplies	Clothing	3 hrs	Books, Clothing, Food	Books	1 hr	No	Food
+9/8/2020 18:33:13	Subject 51	YouTube	Facebook Advertisements	YouTube	Black	Gadget, Podcast, Interviews	Podcast	3 hrs	Gadget, Food, Book	Gadget	1 hr	No	Discount, Mobile operator, Food
+9/8/2020 20:01:43	Subject 52	Instagram	Instagram Advertisements	Web Browser	Blue	car car car	car	use youtube only for music and educational purpose 	car book gadget 	car	1 hr	Maybe	Cars
+9/9/2020 2:05:36	Subject 53	YouTube	Instagram Advertisements	Ask elders/parent all about the product	Black	Stationary, Gadget, health care products	Stationary	3 hrs	Stationary, Cosmetics and whatever necessary in times	Stationary	less than an hour	Yes	Discount, Gadgets, Food, free courses, job hunt related, clothing etc
+9/9/2020 15:55:53	Subject 54	YouTube	Facebook Advertisements	Facebook	Blue	Songs, Travel, Aviation	Travel	3 hrs	Religion, Cricket, Food	Religion	1 hr	No	Food
+9/9/2020 16:31:01	Subject 55	Web Browser	Facebook Advertisements	YouTube	Blue	GADGET, HOME DECOR, CAR	GADGETS	3 hrs	BOOKS, GADGET, TSHIRTS	BOOKS	5 hrs	No	Gadgets
+9/9/2020 21:52:02	Subject 56	Web Browser	Web Browser Advertisements	Web Browser	Black	gadgets, games, car	games	1 hr	games, car, books	games	1 hr	No	Discount
+9/9/2020 22:05:35	Subject 57	Facebook	Facebook Advertisements	Web Browser	Black	CSE courses' tutorials 	none	1 hr	cosmetics, gadgets, outfits	makeups	1 hr	No	Discount
+9/10/2020 0:33:53	Subject 58	YouTube	Facebook Advertisements	YouTube	Red	Skincare	Computer	Most of the time.	Skincare, clothes, digital accessories	Clothes	1 hr	No	None. I stay away from them. :P 
+9/10/2020 18:55:54	Subject 59	Facebook	Facebook Advertisements	Web Browser	Blue	mobile, gadget, headphones	headphones	1 hr	Jersey, gadget, ps4 games	ps4 games	3 hrs	No	Discount, Gadgets, Mobile operator
+9/10/2020 21:36:18	Subject 60	YouTube	Web Browser Advertisements	YouTube	Black	Marques Brownlee, Linus Tech Tips, 	Electronic gadget based channels	1 hr	Dont follow facebook for product recommendations..	Clothes	very low, i do use messenger	No	Discount, Gadgets, Mobile operator
+9/11/2020 1:16:11	Subject 61	Web Browser	Facebook Advertisements	YouTube	Blue	Gameranx (Game) , IGN (Game), DaveLee (Gadget) 	Games	1 hr	Foodbank (food), Notebored (Stationary), SM Products (Stationary) 	Foodbank	1 hr	No	Discount, Food
+9/11/2020 1:16:11	Subject 62	YouTube	Facebook Advertisements	YouTube	Blue	Gadgets. Marques Brownlee, Dave Lee, Jonathan Morrison 	Gadgets	1 hr	Foodbank, Notebored Stationary, SM Products	Foodbank	5 mins	No	Discount, Gadgets, Food
+9/11/2020 17:27:59	Subject 63	Web Browser	YouTube Advertisements	Web Browser	Yellow	Gadget, computer and laptops , car	computer and laptops 	3 hrs	Gadget, cars, engineering products 	cars	3 hrs	No	Gadgets, Food, Cars
+9/13/2020 22:25:32	Subject 64	Instagram	Facebook Advertisements	YouTube	Black	Makeup, Food recipe 	Makeup	3 hrs	Cosmetics, Dress, jewelry 	Cosmetics 	5 hrs	No	Discount
+9/13/2020 23:25:38	Subject 65	Web Browser	Facebook Advertisements	Web Browser	Black	Bike, Gadget, Entertainment	Bike	1 hr	Gadget, Bike, Daily needs	Gadget	3 hrs	No	Gadgets
+9/23/2020 22:25:14	Subject 66	YouTube	Facebook Advertisements	YouTube	Black	Games, Computer Components, Android Products	Games	5 hrs	Menswear, watch, Hair care	Menswear	I do not have a facebook acoount	No	Gadgets
+
